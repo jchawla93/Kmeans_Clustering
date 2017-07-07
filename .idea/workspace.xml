@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb91735b-3d25-4699-a4a1-1db102f4ec13" name="Default" comment="" />
+    <list default="true" id="fb91735b-3d25-4699-a4a1-1db102f4ec13" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chawla_jitesh_clustering.py" afterPath="$PROJECT_DIR$/chawla_jitesh_clustering.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chawla_jitesh_clustering.txt" afterPath="$PROJECT_DIR$/chawla_jitesh_clustering.txt" />
+    </list>
     <ignored path="Kmeans_Clustering.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -38,75 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="initialPoints2" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/initialPoints2">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="initialPoints.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/initialPoints.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="outputSample.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/outputSample.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="chawla_jitesh_clustering.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chawla_jitesh_clustering.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2845">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-                <element signature="e#1301#1325#0" expanded="false" />
-                <element signature="e#1500#1559#0" expanded="false" />
-                <element signature="e#1710#1769#0" expanded="false" />
-                <element signature="e#2989#3039#0" expanded="false" />
-                <element signature="e#5977#6036#0" expanded="false" />
-                <element signature="e#6261#6284#0" expanded="false" />
-                <element signature="e#6689#6718#0" expanded="false" />
-                <element signature="e#6857#6868#0" expanded="false" />
-                <element signature="e#7089#7118#0" expanded="false" />
-                <element signature="e#7550#7578#0" expanded="false" />
-                <element signature="e#8143#8161#0" expanded="false" />
-                <element signature="e#11078#11140#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chawla_jitesh_clustering.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chawla_jitesh_clustering.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24050">
-              <caret line="1715" column="7" selection-start-line="1715" selection-start-column="0" selection-end-line="1715" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="trial.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/trial.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1095">
-              <caret line="80" column="86" selection-start-line="80" selection-start-column="86" selection-end-line="80" selection-end-column="86" />
+            <state relative-caret-position="-405">
+              <caret line="167" column="17" selection-start-line="167" selection-start-column="17" selection-end-line="167" selection-end-column="17" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -122,6 +62,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -147,7 +90,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="815" />
+    <option name="height" value="813" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -174,6 +117,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -195,7 +139,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -522,17 +465,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="815" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="813" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16666667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16881259" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36024097" sideWeight="0.5028612" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959327" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27310345" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27259684" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -612,18 +555,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#1301#1325#0" expanded="false" />
-            <element signature="e#1500#1559#0" expanded="false" />
-            <element signature="e#1710#1769#0" expanded="false" />
-            <element signature="e#2989#3039#0" expanded="false" />
-            <element signature="e#5977#6036#0" expanded="false" />
-            <element signature="e#6261#6284#0" expanded="false" />
-            <element signature="e#6689#6718#0" expanded="false" />
-            <element signature="e#6857#6868#0" expanded="false" />
-            <element signature="e#7089#7118#0" expanded="false" />
-            <element signature="e#7550#7578#0" expanded="false" />
-            <element signature="e#8143#8161#0" expanded="false" />
-            <element signature="e#11078#11140#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -636,16 +567,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="80" column="86" selection-start-line="80" selection-start-column="86" selection-end-line="80" selection-end-column="86" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/trial.py" />
     <entry file="file://$PROJECT_DIR$/input_car.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -684,18 +606,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#1301#1325#0" expanded="false" />
-            <element signature="e#1500#1559#0" expanded="false" />
-            <element signature="e#1710#1769#0" expanded="false" />
-            <element signature="e#2989#3039#0" expanded="false" />
-            <element signature="e#5977#6036#0" expanded="false" />
-            <element signature="e#6261#6284#0" expanded="false" />
-            <element signature="e#6689#6718#0" expanded="false" />
-            <element signature="e#6857#6868#0" expanded="false" />
-            <element signature="e#7089#7118#0" expanded="false" />
-            <element signature="e#7550#7578#0" expanded="false" />
-            <element signature="e#8143#8161#0" expanded="false" />
-            <element signature="e#11078#11140#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -708,16 +618,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="80" column="86" selection-start-line="80" selection-start-column="86" selection-end-line="80" selection-end-column="86" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/trial.py" />
     <entry file="file://$PROJECT_DIR$/input_car.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -748,18 +649,6 @@
           <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#1301#1325#0" expanded="false" />
-            <element signature="e#1500#1559#0" expanded="false" />
-            <element signature="e#1710#1769#0" expanded="false" />
-            <element signature="e#2989#3039#0" expanded="false" />
-            <element signature="e#5977#6036#0" expanded="false" />
-            <element signature="e#6261#6284#0" expanded="false" />
-            <element signature="e#6689#6718#0" expanded="false" />
-            <element signature="e#6857#6868#0" expanded="false" />
-            <element signature="e#7089#7118#0" expanded="false" />
-            <element signature="e#7550#7578#0" expanded="false" />
-            <element signature="e#8143#8161#0" expanded="false" />
-            <element signature="e#11078#11140#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -772,16 +661,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="80" column="86" selection-start-line="80" selection-start-column="86" selection-end-line="80" selection-end-column="86" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/trial.py" />
     <entry file="file://$PROJECT_DIR$/input_car.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -812,18 +692,6 @@
           <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#1301#1325#0" expanded="false" />
-            <element signature="e#1500#1559#0" expanded="false" />
-            <element signature="e#1710#1769#0" expanded="false" />
-            <element signature="e#2989#3039#0" expanded="false" />
-            <element signature="e#5977#6036#0" expanded="false" />
-            <element signature="e#6261#6284#0" expanded="false" />
-            <element signature="e#6689#6718#0" expanded="false" />
-            <element signature="e#6857#6868#0" expanded="false" />
-            <element signature="e#7089#7118#0" expanded="false" />
-            <element signature="e#7550#7578#0" expanded="false" />
-            <element signature="e#8143#8161#0" expanded="false" />
-            <element signature="e#11078#11140#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -836,23 +704,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="80" column="86" selection-start-line="80" selection-start-column="86" selection-end-line="80" selection-end-column="86" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chawla_jitesh_clustering_try1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/trial.py" />
+    <entry file="file://$PROJECT_DIR$/chawla_jitesh_clustering_try1.py" />
     <entry file="file://$PROJECT_DIR$/initialPoints.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -869,13 +722,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../testing/src/jitesh_chawla_multihash.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="58" column="32" selection-start-line="56" selection-start-column="4" selection-end-line="58" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../testing/src/jitesh_chawla_multihash.py" />
     <entry file="file://$PROJECT_DIR$/outputSample.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -884,13 +731,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Collaborative_Filtering/jitesh_chawla_collabFilter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="49" column="45" selection-start-line="48" selection-start-column="0" selection-end-line="49" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Collaborative_Filtering/jitesh_chawla_collabFilter.py" />
     <entry file="file://$PROJECT_DIR$/../Frequent_Itemsets/jitesh_chawla_multihash.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -898,43 +739,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../testing/src/jitesh_chawla_multihash.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="58" column="32" selection-start-line="56" selection-start-column="4" selection-end-line="58" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../testing/src/jitesh_chawla_multihash.py" />
     <entry file="file://$PROJECT_DIR$/jitesh_chawla_collabFilter11.py" />
     <entry file="file://$USER_HOME$/Desktop/jitesh_chawla_collabFilter11.py" />
-    <entry file="file://$PROJECT_DIR$/clustering.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2865">
-          <caret line="197" column="25" selection-start-line="197" selection-start-column="25" selection-end-line="197" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chawla_jitesh_clustering_try1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chawla_jitesh_clustering11_try2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="54" column="59" selection-start-line="54" selection-start-column="59" selection-end-line="54" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Collaborative_Filtering/jitesh_chawla_collabFilter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="105" column="68" selection-start-line="105" selection-start-column="8" selection-end-line="105" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/clustering.py" />
+    <entry file="file://$PROJECT_DIR$/chawla_jitesh_clustering_try1.py" />
+    <entry file="file://$PROJECT_DIR$/chawla_jitesh_clustering11_try2.py" />
+    <entry file="file://$PROJECT_DIR$/../Collaborative_Filtering/jitesh_chawla_collabFilter.py" />
     <entry file="file://$PROJECT_DIR$/jitesh_chawla_clustering.txt" />
     <entry file="file://$PROJECT_DIR$/chawla_jitesh_clustering.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -944,28 +755,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="80" column="86" selection-start-line="80" selection-start-column="86" selection-end-line="80" selection-end-column="86" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/trial.py" />
     <entry file="file://$PROJECT_DIR$/outputSample.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/input_car.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -995,30 +789,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chawla_jitesh_clustering.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24050">
+        <state relative-caret-position="450">
           <caret line="1715" column="7" selection-start-line="1715" selection-start-column="0" selection-end-line="1715" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/initialPoints1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input_car.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chawla_jitesh_clustering.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2845">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        <state relative-caret-position="-405">
+          <caret line="167" column="17" selection-start-line="167" selection-start-column="17" selection-end-line="167" selection-end-column="17" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#1301#1325#0" expanded="false" />
-            <element signature="e#1500#1559#0" expanded="false" />
-            <element signature="e#1710#1769#0" expanded="false" />
-            <element signature="e#2989#3039#0" expanded="false" />
-            <element signature="e#5977#6036#0" expanded="false" />
-            <element signature="e#6261#6284#0" expanded="false" />
-            <element signature="e#6689#6718#0" expanded="false" />
-            <element signature="e#6857#6868#0" expanded="false" />
-            <element signature="e#7089#7118#0" expanded="false" />
-            <element signature="e#7550#7578#0" expanded="false" />
-            <element signature="e#8143#8161#0" expanded="false" />
-            <element signature="e#11078#11140#0" expanded="false" />
           </folding>
         </state>
       </provider>
